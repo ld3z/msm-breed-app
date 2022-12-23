@@ -1,6 +1,6 @@
 var GHPATH = '/msm-breed-app';
-var APP_PREFIX = 'gppwa_';
-var VERSION = 'version_002';
+var APP_PREFIX = 'msmpwa_';
+var VERSION = 'version_003';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
