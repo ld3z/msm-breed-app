@@ -1,7 +1,7 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
+  "name": "My Singing Monsters PWA",
+  "short_name": "MSMPWA",
+  "description": "test",
   "scope": "/msm-breed-app/",
   "start_url": "/msm-breed-app/",
   "background_color": "#ffffff",
